@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-1-who_am_i",
+      "appliesTo": "0x01-shell_permissions/1-who_am_i",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-1-who_am_i",
+      "appliesTo": "0x01-shell_permissions/1-who_am_i",
+      "type": "launch"
+    }
+  ]
+}
